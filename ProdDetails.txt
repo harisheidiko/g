@@ -1,0 +1,54 @@
+Fullname : CiscoSpark
+User ID : ciscosparkintegrations@gmail.com
+Password : CiscoEidiko@9
+ScrenName : SparkCisco
+
+App Name : CiscoSparkIntegration
+Description : Cisco Spark Integration
+Website : http://www.cisco.com/
+Consumer Key (API Key) : Cj9FXbEsArkI94EobtMoweUnP
+Consumer Secret (API Secret) : yNaoyCC5fbYLDA56RW0guM0IahWvLPbegH7AfNoTlFf7jpsMnf
+Owner : SparkCisco
+Owner ID	 : 791872902555504640
+Redirect url : https://depot.ciscospark.com/
+============================
+Phase1
+ciscosparkintegrations@eidiko.com/ciscosparkintegrations@gmail.com
+Password:CiscoEidiko@9/CiscoEidiko@10
+================================
+Sharepoint
+ClientId:26ce7377-b531-4ebd-8364-b77a681d3213
+ClientSecret:6ZX2pz4atBmiC6/xq+Um4Xmxo50nm2hOsDwCsx5Iso0=
+
+https://eidikosys.onmicrosoft.com/sharepoint
+
+Permissiion:
+ReadUserProfiles
+Read Items in all sight collections
+
+
+ReadUserProfiles
+ReadAndWrightUserProfiles
+ReadUserFiles
+HaveFullControlOfAllsight
+REad and Right items....
+Read Items in all sight collections
+
+
+Azure
+Read and wright domain
+Read directory data
+
+Sign in and userfiles
+
+===============================================
+Prod:
+CiscoSpark Sharepoint Online
+ClientId:fbf8c3b7-dc39-44c1-96d4-26f2786ca208
+ClientSecret:IJjLqPMEe6uF6xS7kUbLnGU0lxf1M+mYaeXblcL2Uzs=
+
+
+
+Previous
+sharepoint.integration.client.id=e4618e4d-52c0-4933-9398-e5b60635412e
+sharepoint.integration.client.secret=jqtoiaUDDTfFLTgAG20C0yi5i8rF7SdX4mEXUl3ThXc=
